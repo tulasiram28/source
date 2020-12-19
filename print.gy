@@ -1,5 +1,5 @@
 class example {
 public static void main (String[] args) {
-println("hello");
+println("hello,hello again");
 }
 }
